@@ -43,3 +43,8 @@ class Bird(pg.sprite.Sprite):
             else: self.img_idx=0
             self.anim_counter=0
         self.anim_counter+=1
+
+    def resetPosition(self):
+        self.rect.center=(100,100)
+        self.y_velocity=0
+        self.anim_counter=0

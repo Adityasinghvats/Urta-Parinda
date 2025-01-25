@@ -13,7 +13,16 @@ An obstacle avoidance game built using pygame.
 # How to Play 😜
 - `Python` and `Visual Studio Code` are necessary.
 - Get the `pygame module` by `pip install pygame`.
-- Clone the project `git clone https://github.com/Adityasinghvats/Urta-Parinda.git`.
-- Get into the directory by `cd <your directory name>`
-- Open in VS code by `code .`
+- Clone the project
+ ```sh
+ git clone https://github.com/Adityasinghvats/Urta-Parinda.git
+ ```
+- Get into the directory by
+```sh
+cd <your directory name>
+```
+- Open in VS code by
+```sh
+ code .
+ ```
 - Run the `game.py` file .
